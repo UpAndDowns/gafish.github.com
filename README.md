@@ -4,4 +4,5 @@
 
 git commands learn platform
 
-firt fork this project
+1. firt fork this project
+2. clone this project on your own github with the https url
